@@ -1,4 +1,4 @@
-# Smart-Server-Monitoring
+# Smart-Server-Monitoring <img src="https://thumbs.dreamstime.com/z/cloud-server-line-icon-vector-simple-minimal-pictogram-web-graphics-apps-107799750.jpg" width="20" height="20"/>
 The project provides a server monitoring solution with Prometheus and a Python-based exporter which collects system metrics like CPU, Memory, Disk Usage and exposes them for Prometheus to scrape.
 
 ## Features
